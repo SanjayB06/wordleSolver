@@ -1,5 +1,4 @@
 from data import wordByLetter
-
 while True:
 	attemptedWord = input("What word did you attempt? ").lower()
 	result = input("What was the result? ").lower()
